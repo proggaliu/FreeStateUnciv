@@ -7,10 +7,11 @@
 		"movement": 1,
 		"strength": 100,
 		"rangedStrength": 50,
+		"range": 10,
 		"cost": 400,
 		//"requiredTech": "Radar",
 		"upgradesTo": "Stealth Bomber",
-		"uniques": ["Can see over obstacles","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Plains]"],
+		"uniques": ["Can see over obstacles"],
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
 		"attackSound": "bombing"
 	},
