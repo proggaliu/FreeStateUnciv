@@ -35,11 +35,7 @@
 			"-50% Strength when fighting City-State units and cities",
 			"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]",
 			"[-33]% Golden Age length",
-			"[+200]% maintenance costs <for [All] units>",
-			"[non-air] units gain the [Breach the Walls] promotion",
-			"[Melee] units gain the [Eat the Living] promotion",
-			"Gain a free [Infection] [in all cities]",
-			"[+10]% Strength <within [1] tiles of a [Graveyard]>"],
+			"[+200]% maintenance costs <for [All] units>",			
 		"cities": ["Concord", "Manchester", "Nashua", "Hampton", "Portsmouth", "Dover", "Rochester", "Seabrook",
 			"Laconia", "Lebanon", "Claremont", "Belmont", "Wolfebord", "Plymouth", "Swanzey", "Keene", "Brattleboro", "Newport",
 			"Raymond", "Londonderry", "Salem", "Barrington", "Gilford", "Conway", "Littleton", "White Mountain"]
