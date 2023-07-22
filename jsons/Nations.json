@@ -30,21 +30,18 @@
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "The non state of the free people",
-		"uniques": ["[-50]% Unhappiness from [Population] [in all cities]",
-			"[-33]% [Culture] [in all cities]",
-			"[-33]% [Science] [in all cities]",
-			"[-33]% growth [in all cities]",
-			"+30% Strength when fighting City-State units and cities",
+		"uniques": ["[+50]% [Culture] [in all cities]",
+			"[+100]% [Science] [in all cities]",
+			"-50% Strength when fighting City-State units and cities",
 			"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]",
 			"[-33]% Golden Age length",
-			"[-33]% maintenance costs <for [All] units>",
-			"[All] units gain the [Undead] promotion",
+			"[+100]% maintenance costs <for [All] units>",
 			"[non-air] units gain the [Breach the Walls] promotion",
 			"[Melee] units gain the [Eat the Living] promotion",
 			"Gain a free [Infection] [in all cities]",
 			"[+10]% Strength <within [1] tiles of a [Graveyard]>"],
-		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
-			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
-			"Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
+		"cities": ["Concord", "Manchester", "Nashua", "Hampton", "Portsmouth", "Dover", "Rochester", "Seabrook",
+			"Laconia", "Lebanon", "Claremont", "Belmont", "Wolfebord", "Plymouth", "Swanzey", "Keene", "Brattleboro", "Newport",
+			"Raymond", "Londonderry", "Salem", "Barrington", "Gilford", "Conway", "Littleton", "White Mountain"]
 	}
 ]
