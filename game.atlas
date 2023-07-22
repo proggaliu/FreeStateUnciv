@@ -3,7 +3,7 @@ size: 512,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-NationIcons/Ukraine
+NationIcons/FreeState
   rotate: false
   xy: 206, 2
   size: 100, 100
