@@ -25,9 +25,5 @@
 		"movement": 1,
 		"strength": 100,
 		"cost": 400,
-		"requiredTech": "Radar",
-		"upgradesTo": "Stealth Bomber",
-		"uniques": ["Can see over obstacles"],
-		"attackSound": "bombing"
 	},
 ]
