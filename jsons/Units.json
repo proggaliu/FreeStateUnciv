@@ -23,7 +23,7 @@
 		"replaces": "Frigate",
 		"uniqueTo": "FreeState",
 		"movement": 1,
-		"strength": 100,
-		"cost": 400,
+		//"strength": 100,
+		//"cost": 400,
 	},
 ]
