@@ -94,7 +94,7 @@
 			"Blast radius [2]", "Consumes [1] [Uranium]"],
 		"attackSound": "nuke"
 	},
-	{
+	/*{
 		"name": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Gatling Gun",
@@ -108,7 +108,7 @@
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
-	},
+	},*/
 	{
 		"name": "Drone Grenadier",
 		"unitType": "Ranged Gunpowder",
