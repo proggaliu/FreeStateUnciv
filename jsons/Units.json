@@ -20,7 +20,7 @@
 	{
 		"name": "NullUnit",
 		"unitType": "Civilian",
-		"replaces": ["Frigate", "Lancer"],
+		"replaces": ["Frigate"],
 		"uniqueTo": "FreeState",
 		"movement": 1,
 		"strength": 100,
