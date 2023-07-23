@@ -97,10 +97,10 @@
 			"Blast radius [2]", "Consumes [1] [Uranium]"],
 		"attackSound": "nuke"
 	},
-	/*{
+	{
 		"name": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
-		"replaces": "Gatling Gun",
+		//"replaces": "Gatling Gun",
 		"uniqueTo": "FreeState",
 		"range": 2,
 		"movement": 2,
@@ -109,9 +109,9 @@
 		"cost": 225,
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Drone Grenadier",
-		//"obsoleteTech": "Electronics",
-		"attackSound": "machinegun"
-	},*/
+		"obsoleteTech": "Electronics",
+		"attackSound": "bombing"
+	},
 	{
 		"name": "Drone Grenadier",
 		"unitType": "Ranged Gunpowder",
