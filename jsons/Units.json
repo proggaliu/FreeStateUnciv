@@ -11,7 +11,7 @@
 		"rangedStrength": 50,
 		"range": 10,
 		"cost": 400,
-		"requiredTech": "Radar",
+		//"requiredTech": "Radar",
 		"upgradesTo": "Stealth Bomber",
 		"uniques": ["Can see over obstacles"],
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
@@ -27,10 +27,10 @@
 		"rangedStrength": 50,
 		"range": 10,
 		"cost": 400,
-		"requiredTech": "Flight",
+		//"requiredTech": "Flight",
 		"upgradesTo": "A10",
 		"uniques": ["Can see over obstacles"],
-		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
+		//"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
 		"attackSound": "bombing"
 	},
 
