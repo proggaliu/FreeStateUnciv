@@ -1,4 +1,6 @@
 [
+	
+	//Replacements
 	{
 		"name": "A10",
 		"unitType": "Bomber",
@@ -16,14 +18,20 @@
 		"attackSound": "bombing"
 	},
 
-	
+	//Remove
 	{
-		"name": "NullUnit",
+		"name": "Null-1",
 		"unitType": "Civilian",
 		"replaces": "Frigate",
 		"uniqueTo": "FreeState",
-		//"movement": 1,
-		//"strength": 100,
-		//"cost": 400,
+		"upgradesTo": "Null-2",
+	},
+	
+	{
+		"name": "Null-2",
+		"unitType": "Civilian",
+		"replaces": "Lancer",
+		"uniqueTo": "FreeState",
+		//"upgradesTo": "Null-2",
 	},
 ]
