@@ -114,4 +114,26 @@
 		"uniqueTo": "FreeState",
 		"requiredTech": "Future Tech",
 	},
+	{
+		"name": "Null-10",
+		"unitType": "Civilian",
+		"replaces": "SS Cockpit",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	
+	{
+		"name": "Null-11",
+		"unitType": "Civilian",
+		"replaces": "SS Booster",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-10",
+		"unitType": "Civilian",
+		"replaces": "SS Engine",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
 ]
