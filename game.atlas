@@ -6,28 +6,42 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 BuildingIcons/Sich
   rotate: false
-  xy: 104, 2
+  xy: 4, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/FreeState
   rotate: false
-  xy: 206, 2
+  xy: 106, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/A10
   rotate: false
-  xy: 2, 2
+  xy: 208, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Drone Grenadier
   rotate: false
-  xy: 302, 2
+  xy: 312, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/F22 Raptor
+  rotate: false
+  xy: 414, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/J39 Gripen
+  rotate: false
+  xy: 516, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
