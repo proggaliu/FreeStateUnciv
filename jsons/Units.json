@@ -74,14 +74,14 @@
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "FreeState",
 		"movement": 1,
-		"strength": 100,
-		"rangedStrength": 50,
-		"range": 10,
-		"cost": 400,
+		"strength": 300,
+		"rangedStrength": 300,
+		"range": 12,
+		"cost": 1000,
 		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Can see over obstacles"],
-		//"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
-		"attackSound": "bombing"
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [2]", "Consumes [2] [Uranium]"],
+		"attackSound": "nuke"
 	},
 
 	//Remove
