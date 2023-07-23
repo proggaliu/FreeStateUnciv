@@ -27,7 +27,7 @@ UnitIcons/A10
   index: -1
 UnitIcons/Drone Grenadier
   rotate: false
-  xy: 2, 2
+  xy: 302, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
