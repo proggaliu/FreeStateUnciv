@@ -9,7 +9,7 @@
 		"rangedStrength": 50,
 		"range": 10,
 		"cost": 400,
-		//"requiredTech": "Radar",
+		"requiredTech": "Radar",
 		"upgradesTo": "Stealth Bomber",
 		"uniques": ["Can see over obstacles"],
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
