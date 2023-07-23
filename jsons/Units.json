@@ -80,6 +80,21 @@
 		"attackSound": "missile"
 	},
 	{
+		"name": "Nuclear Missile",
+		"unitType": "Missile",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "FreeState",
+		"movement": 1,
+		"strength": 300,
+		"rangedStrength": 300,
+		"range": 12,
+		"cost": 1000,
+		"requiredTech": "Nuclear Fusion",
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [2]", "Consumes [1] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
 		"name": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Gatling Gun",
@@ -94,7 +109,116 @@
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
 	},
-
+	{
+		"name": "Drone Grenadier",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Machine Gun",
+		"uniqueTo": "FreeState",
+		"range": 5,
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 70,
+		"cost": 350,
+		"requiredTech": "Electronics",
+		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["Can see over obstacles", "[6] Sight"],
+		"attackSound": "bombing"
+	},
 	
 
+	//Remove
+	{
+		"name": "Null-1",
+		"unitType": "Civilian",
+		"replaces": "Frigate",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-2",
+		"unitType": "Civilian",
+		"replaces": "Lancer",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-3",
+		"unitType": "Civilian",
+		"replaces": "Galleass",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-4",
+		"unitType": "Civilian",
+		"replaces": "Privateer",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-5",
+		"unitType": "Civilian",
+		"replaces": "Great War Bomber",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-6",
+		"unitType": "Civilian",
+		"replaces": "Anti-Tank Gun",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-7",
+		"unitType": "Civilian",
+		"replaces": "Paratrooper",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-8",
+		"unitType": "Civilian",
+		"replaces": "Battleship",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-9",
+		"unitType": "Civilian",
+		"replaces": "SS Stasis Chamber",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-10",
+		"unitType": "Civilian",
+		"replaces": "SS Cockpit",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	
+	{
+		"name": "Null-11",
+		"unitType": "Civilian",
+		"replaces": "SS Booster",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-12",
+		"unitType": "Civilian",
+		"replaces": "SS Engine",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	
+	{
+		"name": "Null-13",
+		"unitType": "Civilian",
+		"replaces": "Bomber",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
 ]
+
