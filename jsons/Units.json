@@ -79,51 +79,7 @@
 		"requiredTech": "Advanced Ballistics",
 		"attackSound": "missile"
 	},
-	{
-		"name": "Nuclear Missile",
-		"unitType": "Missile",
-		"replaces": "Giant Death Robot",
-		"uniqueTo": "FreeState",
-		"movement": 1,
-		"strength": 300,
-		"rangedStrength": 300,
-		"range": 12,
-		"cost": 1000,
-		"requiredTech": "Nuclear Fusion",
-		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [2]", "Consumes [1] [Uranium]"],
-		"attackSound": "nuke"
-	},
-	{
-		"name": "Gatling Gun",
-		"unitType": "Ranged Gunpowder",
-		"replaces": "Gatling Gun",
-		"uniqueTo": "FreeState",
-		"range": 2,
-		"movement": 2,
-		"strength": 30,
-		"rangedStrength": 30,
-		"cost": 225,
-		"requiredTech": "Industrialization",
-		"upgradesTo": "Machine Gun",
-		"obsoleteTech": "Ballistics",
-		"attackSound": "machinegun"
-	},
-	{
-		"name": "Drone Grenadier",
-		"unitType": "Ranged Gunpowder",
-		"replaces": "Machine Gun",
-		"uniqueTo": "FreeState",
-		"range": 5,
-		"movement": 2,
-		"strength": 40,
-		"rangedStrength": 70,
-		"cost": 350,
-		"requiredTech": "Electronics",
-		"upgradesTo": "Mechanized Infantry",
-		"uniques": ["Can see over obstacles", "[6] Sight"],
-		"attackSound": "bombing"
-	},
+
 	
 
 ]
