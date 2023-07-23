@@ -1,47 +1,54 @@
 
 game.png
-size: 512,128
+size: 1024, 128
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Sich
   rotate: false
-  xy: 4, 2
+  xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/FreeState
   rotate: false
-  xy: 106, 2
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/A10
   rotate: false
-  xy: 208, 2
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cossacks
+  rotate: false
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Drone Grenadier
   rotate: false
-  xy: 312, 2
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/F22 Raptor
   rotate: false
-  xy: 414, 2
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/J39 Gripen
   rotate: false
-  xy: 516, 2
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
