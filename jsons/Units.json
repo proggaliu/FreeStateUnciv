@@ -17,6 +17,7 @@
 		"uniques": ["Can see over obstacles", "[5] Sight"],
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
 		"attackSound": "bombing"
+		"obsoleteTech": "Radar",
 	},
 	{
 		"name": "A10",
@@ -34,6 +35,7 @@
 		"uniques": ["Can see over obstacles", "[10] Sight"],
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
 		"attackSound": "bombing"
+		"obsoleteTech": "Lasers",
 	},
 	{
 		"name": "J39 Gripen",
@@ -51,6 +53,7 @@
 		"uniques": ["Can see over obstacles", "[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "Can see invisible [All] units"],
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
 		"attackSound": "bombing"
+		"obsoleteTech": "Stealth",
 	},
 	{
 		"name": "F22 Raptor",
@@ -106,7 +109,7 @@
 		"cost": 225,
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Drone Grenadier",
-		"obsoleteTech": "Ballistics",
+		"obsoleteTech": "Electronics",
 		"attackSound": "machinegun"
 	},
 	{
