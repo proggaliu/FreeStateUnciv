@@ -25,14 +25,26 @@
 		"replaces": "Frigate",
 		"uniqueTo": "FreeState",
 		"requiredTech": "Future Tech",
-		//"upgradesTo": "Null-2",
 	},
-	
 	{
 		"name": "Null-2",
 		"unitType": "Civilian",
 		"replaces": "Lancer",
 		"uniqueTo": "FreeState",
-		//"upgradesTo": "Null-2",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-3",
+		"unitType": "Civilian",
+		"replaces": "Galleass",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-4",
+		"unitType": "Civilian",
+		"replaces": "Privateer",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
 	},
 ]
