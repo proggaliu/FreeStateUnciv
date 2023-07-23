@@ -145,7 +145,7 @@
 		"requiredTech": "Future Tech",
 	},
 	{
-		"name": "Null-10",
+		"name": "Null-12",
 		"unitType": "Civilian",
 		"replaces": "SS Engine",
 		"uniqueTo": "FreeState",
