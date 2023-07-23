@@ -17,6 +17,22 @@
 		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
 		"attackSound": "bombing"
 	},
+	{
+		"name": "Triplane",
+		"unitType": "Fighter",
+		"replaces": "Triplane",
+		"uniqueTo": "FreeState",
+		"movement": 1,
+		"strength": 100,
+		"rangedStrength": 50,
+		"range": 10,
+		"cost": 400,
+		"requiredTech": "Flight",
+		"upgradesTo": "A10",
+		"uniques": ["Can see over obstacles"],
+		"promotions": ["Ambush I", "Ambush II", "Air Repair", "Logistics"],
+		"attackSound": "bombing"
+	},
 
 	//Remove
 	{
@@ -44,6 +60,13 @@
 		"name": "Null-4",
 		"unitType": "Civilian",
 		"replaces": "Privateer",
+		"uniqueTo": "FreeState",
+		"requiredTech": "Future Tech",
+	},
+	{
+		"name": "Null-5",
+		"unitType": "Civilian",
+		"replaces": "Great War Bomber",
 		"uniqueTo": "FreeState",
 		"requiredTech": "Future Tech",
 	},
