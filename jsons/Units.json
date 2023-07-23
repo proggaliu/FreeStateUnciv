@@ -119,7 +119,7 @@
 		"strength": 40,
 		"rangedStrength": 70,
 		"cost": 350,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Electronics",
 		"upgradesTo": "Mechanized Infantry",
 		"uniques": ["Can see over obstacles", "[6] Sight"],
 		"attackSound": "bombing"
