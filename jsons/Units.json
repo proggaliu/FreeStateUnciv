@@ -24,7 +24,8 @@
 		"unitType": "Civilian",
 		"replaces": "Frigate",
 		"uniqueTo": "FreeState",
-		"upgradesTo": "Null-2",
+		"requiredTech": "Future Tech",
+		//"upgradesTo": "Null-2",
 	},
 	
 	{
