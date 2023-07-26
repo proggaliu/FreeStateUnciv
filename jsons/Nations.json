@@ -31,7 +31,6 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "The non state of the free people",
 		"uniques": ["[+500]% [Science] [in all cities]",
-			"-50% Strength when fighting City-State units and cities",
 			"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]",
 			"[0] Unit Supply per [1] population [in all cities]",
 			"[2] Unit Supply per city",
