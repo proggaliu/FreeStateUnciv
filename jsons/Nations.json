@@ -35,7 +35,9 @@
 			"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]",
 			"[0] Unit Supply per [1] population [in all cities]",
 			"[2] Unit Supply per city",
-			"[+100]% Production when constructing [All] buildings [in all cities]"],			
+			"[+100]% Production when constructing [All] buildings [in all cities]",
+			"[+200]% XP gained from combat",
+			"[+50]% maintenance costs"],			
 		"cities": ["Concord", "Manchester", "Nashua", "Hampton", "Portsmouth", "Dover", "Rochester", "Seabrook",
 			"Laconia", "Lebanon", "Claremont", "Belmont", "Wolfebord", "Plymouth", "Swanzey", "Keene", "Brattleboro", "Newport",
 			"Raymond", "Londonderry", "Salem", "Barrington", "Gilford", "Conway", "Littleton", "White Mountain"]
