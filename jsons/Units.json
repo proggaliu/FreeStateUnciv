@@ -143,7 +143,7 @@
 		"movement": 2,
 		"strength": 21,
 		"rangedStrength": 28,
-		"replaces": "Artillery",
+		//"replaces": "Artillery",
 		"range": 5,
 		"cost": 320,
 		"requiredTech": "Dynamite",
