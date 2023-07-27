@@ -5,7 +5,7 @@
 	{
 		"name": "Triplane",
 		"unitType": "Fighter",
-		"replaces": "Triplane",
+		//"replaces": "Triplane",
 		"uniqueTo": "FreeState",
 		"movement": 1,
 		"strength": 25,
