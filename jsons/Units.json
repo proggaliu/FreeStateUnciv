@@ -90,7 +90,7 @@
 		"cost": 1000,
 		"requiredTech": "Nuclear Fusion",
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [2]", "Consumes [1] [Uranium]"],
+			"Blast radius [2]"],
 		"attackSound": "nuke"
 	},
 	{
