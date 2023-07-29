@@ -31,7 +31,7 @@
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Our strengths",
-		"uniques": ["[+20]% Strength for cities"],
+		"uniques": ["[+300]% XP gained from combat"],
 		"cities": ["Concord", "Manchester", "Nashua", "Hampton", "Portsmouth", "Dover", "Rochester", "Seabrook",
 			"Laconia", "Lebanon", "Claremont", "Belmont", "Wolfebord", "Plymouth", "Swanzey", "Keene", "Brattleboro", "Newport",
 			"Raymond", "Londonderry", "Salem", "Barrington", "Gilford", "Conway", "Littleton", "White Mountain"]
